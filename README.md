@@ -6,5 +6,6 @@
 - [x] Javadoc
 - [x] Lombok
 
-[Saiba mais sobre o desafio em:]( https://www.dio.me/)
-[Lombok:](https://projectlombok.org/)
+[Saiba mais sobre o desafio]( https://www.dio.me/)
+
+[Lombok](https://projectlombok.org/)
